@@ -3,9 +3,9 @@ let adjectives = ["great", "big"];
 let nouns = ["jogger", "racoon"];
 let exts = [".com", ".net"];
 
-function domainName(pronoun, adjective, noun, ext) {
+/*function domainName(pronoun, adjective, noun, ext) {
   return `${pronoun}${adjective}${noun}${ext}`;
-}
+}*/
 
 for (let pronoun of pronouns) {
   for (let adjective of adjectives) {
