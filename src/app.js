@@ -1,7 +1,7 @@
-let pronouns = ["the", "our"];
-let adjectives = ["great", "big"];
-let nouns = ["jogger", "racoon"];
-let exts = [".com", ".net"];
+let pronouns = ["the", "our", "my"];
+let adjectives = ["great", "big", "best"];
+let nouns = ["jogger", "racoon", "rabbit"];
+let exts = [".com", ".net", ".gov", ".org", ".edu"];
 
 for (let pronoun of pronouns) {
   for (let adjective of adjectives) {
